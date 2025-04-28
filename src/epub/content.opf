@@ -43,9 +43,9 @@
 		<meta property="se:subject">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A wounded warrior, abandoned on a deserted island, is visited by former comrades who ask for his help in winning a war.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Philoctetes was a master archer who was abandoned on the deserted island Lemnos after a snake bite left him with a foul-smelling, incurable wound. His only companion was a bow given to him by Heracles. Ten years later, the Greeks learned from a prophecy that they needed Philoctetes and his legendary bow to win the Trojan War, so Odysseus and Neoptolemus, the son of Achilles, were sent to retrieve both. Knowing that Philoctetes despised him for abandoning him on Lemnos, Odysseus persuaded Neoptolemus to use deception to approach the wounded man.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/sophocleswitheng02soph</dc:source>

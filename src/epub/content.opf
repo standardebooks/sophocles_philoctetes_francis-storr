@@ -45,7 +45,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A wounded warrior, abandoned on a deserted island, is visited by former comrades who ask for his help in winning a war.</dc:abstract>
+		<meta property="schema:abstract">A wounded warrior, abandoned on a deserted island, is visited by former comrades who ask for his help in winning a war.</meta>
 		<dc:description>
 			&lt;p&gt;Philoctetes is a master archer who, during the Trojan War, is bitten by a snake and cursed with a foul-smelling, incurable wound. Odysseus abandons him on the island of Lemnos with a bow given to him by Heracles as his only companion.&lt;/p&gt;
 			&lt;p&gt;Ten years later, a prophecy reveals to the Greeks that Philoctetes and his legendary bow will be necessary to win the Trojan War. This forces Odysseus and Neoptolemus, the son of Achilles, to embark on a quest to retrieve him from his exile on Lemnos.&lt;/p&gt;
